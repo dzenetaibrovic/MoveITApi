@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveIT", "MoveIT\MoveIT.csproj", "{1D0069B5-B523-40E6-8635-F49ACF3FC42E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{EF25E426-6407-44A4-AD8A-9828B75CD0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D0069B5-B523-40E6-8635-F49ACF3FC42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0069B5-B523-40E6-8635-F49ACF3FC42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0069B5-B523-40E6-8635-F49ACF3FC42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0069B5-B523-40E6-8635-F49ACF3FC42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF25E426-6407-44A4-AD8A-9828B75CD0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF25E426-6407-44A4-AD8A-9828B75CD0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF25E426-6407-44A4-AD8A-9828B75CD0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF25E426-6407-44A4-AD8A-9828B75CD0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6270D7C-1741-4F02-AFA1-DB027812F4D8}
+	EndGlobalSection
+EndGlobal
